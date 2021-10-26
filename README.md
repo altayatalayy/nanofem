@@ -1,1 +1,2 @@
-# pyfem
+# fem
+Finite Elements on Macos
